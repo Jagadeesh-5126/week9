@@ -1,0 +1,7 @@
+Hello!
+
+My name is Jagadeesh Tadepalli.
+
+This is my first GitHub and Git practical exercise.
+
+I am learning version control using Git and GitHub.
